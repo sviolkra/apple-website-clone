@@ -97,8 +97,6 @@ Sentry.init({
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Landing Page
 ![Landing Page](screenshots/LandingPage.png)
 
