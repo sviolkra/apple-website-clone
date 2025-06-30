@@ -97,7 +97,22 @@ Sentry.init({
 
 ## 📸 Screenshots
 
-![Apple Clone Screenshot](https://user-images.githubusercontent.com/your-screenshot.png)
+## 📸 Screenshots
+
+### Landing Page
+![Landing Page](screenshots/LandingPage.png)
+
+### Highlights Page
+![Highlights Page](screenshots/HighlightsPage.png)
+
+### Features Page
+![Features Page](screenshots/FeaturesPage.png)
+
+### Model Page
+![Model Page](screenshots/ModelPage.png)
+
+### Games Page
+![Games Page](screenshots/GamesPage.png)
 
 ---
 
