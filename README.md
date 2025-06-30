@@ -97,7 +97,10 @@ Sentry.init({
 
 ## 📸 Screenshots
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5e045f44b6a47091ec69e68f3624758f068d9bb1
 ### Landing Page
 ![Landing Page](screenshots/LandingPage.png)
 
