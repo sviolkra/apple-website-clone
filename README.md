@@ -97,20 +97,24 @@ Sentry.init({
 
 ## 📸 Screenshots
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 5e045f44b6a47091ec69e68f3624758f068d9bb1
 ### Landing Page
-![Landing Page](src/screenshots/LandingPage.png)
+![Landing Page](src/Screenshots/LandingPage.png)
 
 ### Highlights Page
-![Highlights Page](src/screenshots/HighlightsPage.png)
+![Highlights Page](src/Screenshots/HighlightsPage.png)
 
 ### Features Page
-![Features Page](src/screenshots/FeaturesPage.png)
+![Features Page](src/Screenshots/FeaturesPage.png)
 
 ### Model Page
-![Model Page](src/screenshots/ModelPage.png)
+![Model Page](src/Screenshots/ModelPage.png)
 
 ### Games Page
-![Games Page](src/screenshots/GamesPage.png)
+![Games Page](src/Screenshots/GamesPage.png)
 
 ---
 
