@@ -85,6 +85,18 @@ Sentry.init({
 });
 ```
 
+## 📸 Screenshots
+
+
+### Feed Page
+![Landing Page](src/Screenshots/SentryFeed.png)
+
+### Error Page
+![Highlights Page](src/Screenshots/SentryError.png)
+
+### Dashboard Page
+![Features Page](src/Screenshots/SentryDash.png)
+
 ---
 
 ## 🎨 Customization Tips
@@ -97,10 +109,7 @@ Sentry.init({
 
 ## 📸 Screenshots
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 5e045f44b6a47091ec69e68f3624758f068d9bb1
 ### Landing Page
 ![Landing Page](src/Screenshots/LandingPage.png)
 
